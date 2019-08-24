@@ -1,6 +1,6 @@
 # About
 Simple app from <a href="https://www.udemy.com/react-redux/">"Modern React with Redux" course on Udemy</a>
-The application is designed to display, based on the user's current position, whether it is currently summer or winter.
+The application is designed to display, based on the user's current position, if it is currently summer or winter.
 
 # Goal
 - shows basic usage of states in React,
